@@ -1,6 +1,6 @@
-#include <stdio.h>  // to import standard input and output
-#include <string.h> // to import standard libraries
-#include <stdlib.h> // to import strings and use strings
+#include <stdio.h>  // to import standard input and output like printf scanf fgets
+#include <string.h> // provides functions for manipulating strings like strcpy, strcasecmp
+#include <stdlib.h> // provides functions for general utility operations in C, such as exit
 
 #define MAX_BOOKS 500 //identifier that MAX_BOOKS should be replaced with the value 500
 //MAX_BOOKS is used to define the size of the books array to store information about the books in the shop
